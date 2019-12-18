@@ -32,7 +32,7 @@
 
     DROP SEQUENCE [user.]sequence_name；
     从数据库中删除一序列。
-    
+     
    树立一个序列号的语句：
    CREATE SEQUENCE EXAM_NO_SEQ
       START WITH 1484
